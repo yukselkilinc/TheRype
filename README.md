@@ -5,7 +5,7 @@
 
 Languages and Tools:
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,java,cs,py,r,js,dart,flutter,html,css,sql,mysql,react,unreal,arduino,linux,tensorflow)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,java,cs,py,r,js,dart,flutter,html,css,mysql,react,unreal,arduino,linux,tensorflow)](https://skillicons.dev)<br/>
 
 
 
